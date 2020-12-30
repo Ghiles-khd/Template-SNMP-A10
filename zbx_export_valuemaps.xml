@@ -4,7 +4,7 @@
     <date>2016-02-18T03:35:11Z</date>
     <value_maps>
         <value_map>
-            <name>A10 HA状态</name>
+            <name>A10 HA state</name>
             <mappings>
                 <mapping>
                     <value>0</value>
@@ -21,7 +21,7 @@
             </mappings>
         </value_map>
         <value_map>
-            <name>A10 启动模式状态</name>
+            <name>A10 Start mode status</name>
             <mappings>
                 <mapping>
                     <value>0</value>
@@ -46,7 +46,7 @@
             </mappings>
         </value_map>
         <value_map>
-            <name>A10 日志监控优先级</name>
+            <name>A10 Log monitoring priority</name>
             <mappings>
                 <mapping>
                     <value>-1</value>
@@ -87,7 +87,7 @@
             </mappings>
         </value_map>
         <value_map>
-            <name>A10 电源状态</name>
+            <name>A10 Power state</name>
             <mappings>
                 <mapping>
                     <value>-1</value>
@@ -104,7 +104,7 @@
             </mappings>
         </value_map>
         <value_map>
-            <name>A10 虚拟服务显示状态</name>
+            <name>A10 Virtual service display status</name>
             <mappings>
                 <mapping>
                     <value>0</value>
