@@ -1563,7 +1563,7 @@
                                 </application>
                             </applications>
                             <valuemap>
-                                <name>A10 Power status</name>
+                                <name>A10 Power state</name>
                             </valuemap>
                             <logtimefmt/>
                         </item_prototype>
